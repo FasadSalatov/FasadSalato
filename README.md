@@ -11,5 +11,5 @@
 <img height="35px" align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png">
 
 <img height="35px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
-<img height="35px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
+<img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
 
