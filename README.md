@@ -1,4 +1,4 @@
-﻿# <img width="32px" align="left" src="https://imgur.com/kmBs82C"> languages and tools
+﻿# <img width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"> languages and tools
 <img height="35px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="35px" align="left" src="https://media.tproger.ru/uploads/2022/04/node_js_icon-cover-icon-original.png">
 <img height="35px" align="left" src="https://cdn-icons-png.flaticon.com/512/154/154878.png">
