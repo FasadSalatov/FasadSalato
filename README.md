@@ -23,17 +23,4 @@
   <img src="svgs/redactors/vs.svg" width=75px>
 </div>
 
-<h1 align=center>✨Adobe Tools?✨</h1>
-<div align=center>
-  <img src="svgs/adobe/adobe (1).svg" width=75px>
-  <img src="svgs/adobe/adobe (2).svg" width=75px>
-  <img src="svgs/adobe/adobe (3).svg" width=75px>
-  <img src="svgs/adobe/adobe (4).svg" width=75px>
-  <img src="svgs/adobe/adobe (5).svg" width=75px>
-  <img src="svgs/adobe/adobe (6).svg" width=75px>
-  <img src="svgs/adobe/adobe (7).svg" width=75px>
-  <img src="svgs/adobe/adobe (8).svg" width=75px>
-  <img src="svgs/adobe/adobe (9).svg" width=75px>
-</div>
-
 
