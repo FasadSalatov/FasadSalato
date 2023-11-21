@@ -6,7 +6,7 @@
 
 <h1 align=center> 🔫Languages and Tools🔫 </h1>
 <div align=center>
-  <img src="svgs/java-file-svgrepo-com.svg" width=100px></img>
+  <img src="svgs/java-svgrepo-com.svg" width=100px></img>
   <img src="svgs/kotlin-svgrepo-com.svg" width=100px></img>
   <img src="svgs/bootstrap-fill-svgrepo-com.svg" width=100px></img>
   <img src="svgs/jsho-svgrepo-com.svg" width=100px></img>
