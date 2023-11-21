@@ -4,7 +4,7 @@
 [![Fasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FasadSalatov&theme=rose&card_width=1000px&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 align=center> <img src="svgs/htmlhint.svg" width=50px>Languages<img src="svgs/htmlhint.svg" width=50px></h1>
+<h1 align=center> <img src="svgs/htmlhint.svg" width=50px height=25px>Languages<img src="svgs/htmlhint.svg" width=50px></h1>
 <div align=center>
   <img src="svgs/java.svg" width=100px></img>
   <img src="svgs/kotlin-svgrepo-com.svg" width=100px></img>
