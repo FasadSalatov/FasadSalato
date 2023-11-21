@@ -24,7 +24,7 @@
 </div>
 <h1 align=center>✨IDE✨</h1>
 <div align=center>
-  <img src="svgs/ide/jb (1).svg" width=75px padding-left=55px>
+  <img src="svgs/ide/jb (1).svg" width=75px style="padding-left=5px">
   <img src="svgs/ide/jb (2).svg" width=75px>
   <img src="svgs/ide/jb (3).svg" width=75px>
   <img src="svgs/ide/jb (4).svg" width=75px>
