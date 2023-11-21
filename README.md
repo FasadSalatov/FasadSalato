@@ -22,3 +22,12 @@
   <img src="svgs/languages/BAM (14).svg" width=75px>
   <img src="svgs/languages/BAM (15).svg" width=75px>
 </div>
+<h1 align=center>✨IDE✨</h1>
+<div align=center>
+  <img src="svgs/ide/jb (1).svg" width=75px>
+  <img src="svgs/ide/jb (2).svg" width=75px>
+  <img src="svgs/ide/jb (3).svg" width=75px>
+  <img src="svgs/ide/jb (4).svg" width=75px>
+  <img src="svgs/ide/jb (5).svg" width=75px>
+  <img src="svgs/ide/jb (6).svg" width=75px>
+</div>
