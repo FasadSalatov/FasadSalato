@@ -6,5 +6,5 @@
 
 <h1 align=center>✨Languages✨</h1>
 <div align=center>
-  <img src="BAM (1).svg" width=75px>
+  <img src="svgs/languages/BAM (1).svg" width=75px>
 </div>
