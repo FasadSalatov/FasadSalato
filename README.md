@@ -6,5 +6,5 @@
 
 <h1 align=center> 🔫Languages and Tools🔫 </h1>
 <div align=center>
-  <img src="svgs/java-svgrepo-com.svg"></img>
+  <img src="svgs/java-svgrepo-com.svg" width=50px></img>
 </div>
