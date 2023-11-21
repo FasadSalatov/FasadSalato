@@ -51,4 +51,4 @@
   <img src="svgs/adobe/adobe (9).svg" width=75px>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/614574572959825953)](https://discord.com/users/614574572959825953)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/614574572959825953)
