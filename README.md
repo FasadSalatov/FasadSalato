@@ -7,4 +7,18 @@
 <h1 align=center>✨Languages✨</h1>
 <div align=center>
   <img src="svgs/languages/BAM (1).svg" width=75px>
+  <img src="svgs/languages/BAM (2).svg" width=75px>
+  <img src="svgs/languages/BAM (3).svg" width=75px>
+  <img src="svgs/languages/BAM (4).svg" width=75px>
+  <img src="svgs/languages/BAM (5).svg" width=75px>
+  <img src="svgs/languages/BAM (6).svg" width=75px>
+  <img src="svgs/languages/BAM (7).svg" width=75px>
+  <img src="svgs/languages/BAM (8).svg" width=75px>
+  <img src="svgs/languages/BAM (9).svg" width=75px>
+  <img src="svgs/languages/BAM (10).svg" width=75px>
+  <img src="svgs/languages/BAM (11).svg" width=75px>
+  <img src="svgs/languages/BAM (12).svg" width=75px>
+  <img src="svgs/languages/BAM (13).svg" width=75px>
+  <img src="svgs/languages/BAM (14).svg" width=75px>
+  <img src="svgs/languages/BAM (15).svg" width=75px>
 </div>
