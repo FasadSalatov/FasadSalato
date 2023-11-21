@@ -12,15 +12,11 @@
   <img src="svgs/languages/BAM (6).svg" width=50px>
   <img src="svgs/languages/BAM (8).svg" width=50px>
 </div>
-<h1 align=center>✨IDE✨</h1>
-<div align=center>
-  <img src="svgs/ide/jb (5).svg" width=75px>
-</div>
-
 <h1 align=center>✨Redactors✨</h1>
 <div align=center>
   <img src="svgs/redactors/sb.svg" width=75px>
   <img src="svgs/redactors/vs.svg" width=75px>
+  <img src="svgs/ide/jb (5).svg" width=75px>
 </div>
 
 
