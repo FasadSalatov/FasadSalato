@@ -1,38 +1,16 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-              - name: GitHub-Profile-Summary-Cards
-                uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
-            
-            
+            - name: GitHub-Profile-Summary-Cards
+  # You may pin to the exact commit or the version.
+  # uses: vn7n24fzkq/github-profile-summary-cards@ae6284625fc180957980316aea016ee10f556c6c
+  uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
+  with:
+    # GitHub username
+    USERNAME: # default is ${{ github.repository_owner }}
+    # The branch to push cards
+    BRANCH_NAME: # optional, default is main
+    # The UTC offset used in the Productive Time Card.(e.g., 8, -3)
+    UTC_OFFSET: # optional, default is 0
+    # A comma separated list of languages to exclude
+    EXCLUDE: # optional, default is 
+    # Whether automatically push generated files to desired branch
+    AUTO_PUSH: # optional, default is true
+          
